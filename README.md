@@ -1,4 +1,15 @@
 # 🛠️ N13 Support Tool
+│
+├── N13_SupportTool.bat
+├── README.md
+├── .gitignore
+│
+└── docs/
+    ├── features.md
+    └── screenshots/
+        ├── main_menu.png
+        ├── network_tools.png
+        └── live_monitoring.png
 
 **Batch Script** احترافية صممت لدعم فرق الـ IT End-User Support.  
 هذه الأداة تسهّل صيانة الأجهزة، إدارة الشبكات، وحل المشاكل الشائعة بسرعة.
@@ -35,7 +46,18 @@
 3. اختر الأداة من القائمة التفاعلية.
 
 ---
-
+# 🛠️ N13 Support Tool
+│
+├── N13_SupportTool.bat
+├── README.md
+├── .gitignore
+│
+└── docs/
+    ├── features.md
+    └── screenshots/
+        ├── main_menu.png
+        ├── network_tools.png
+        └── live_monitoring.png
 ## 🇬🇧 Description (English)
 
 ### ✨ Features
@@ -66,4 +88,5 @@
 ![Main Menu](docs/screenshots/main_menu.png)
 ![Network Tools](docs/screenshots/network_tools.png)
 ![Live Monitoring](docs/screenshots/live_monitoring.png)
+
 
